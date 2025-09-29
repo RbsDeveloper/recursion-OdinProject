@@ -19,7 +19,7 @@ const fibs = (fibLenght) => {
     return fibArray
 }
 
-//console.log(fibonacciWithLoop(3));
+//console.log(fibs(3));
 
 
 //function with recursion
